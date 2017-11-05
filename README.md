@@ -1,3 +1,6 @@
+## CSC 583 Midterm
+Refer to the Images folder for milstones
+
 # Toro Net
 
 ## Getting started with VirtualBox
